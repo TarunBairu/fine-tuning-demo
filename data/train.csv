@@ -1,0 +1,21 @@
+text,label
+"Where is my order?",ORDER_STATUS
+"I haven't received my package yet",ORDER_STATUS
+"Can you tell me where my shipment is?",ORDER_STATUS
+"My order has not arrived",ORDER_STATUS
+"When will my order be delivered?",ORDER_STATUS
+"I want to return this product",RETURN
+"How can I return my shoes?",RETURN
+"I need to send this product back",RETURN
+"I want to return the item I purchased",RETURN
+"Can I return this product?",RETURN
+"I want my money back",REFUND
+"Please refund my payment",REFUND
+"How can I get a refund?",REFUND
+"I need to get my payment back",REFUND
+"When will I receive my refund?",REFUND
+"My product arrived damaged",COMPLAINT
+"The item I received is broken",COMPLAINT
+"I received a damaged product",COMPLAINT
+"The product has a defect",COMPLAINT
+"I am unhappy because my product is damaged",COMPLAINT
